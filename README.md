@@ -1,2 +1,2 @@
-# SuperVPS
-SuperVPS, repository created to use on experiment of creation VPS machines with large number of cores and memory to use on training of models.
+# FoxTools
+Simple bash file / python file to install a lot of packages that can sometimes not come with the vps or cannot be installed
